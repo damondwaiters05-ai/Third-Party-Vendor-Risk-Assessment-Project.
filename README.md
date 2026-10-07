@@ -69,17 +69,24 @@ The assessment covers the following domains:
 ## Project Structure
 
 ```text
-Third-Party-Vendor-Risk-Assessment/
+Third-Party-Vendor-Risk-Assessment-Project/
 │
 ├── README.md
 │
 ├── Original-Materials/
-│   ├── Vendor_Risk_Assessment_Workbook.xlsx
-│   └── Meridian_TPRM_Assessment_Pack.pdf
+│   ├── Meridian_TPRM_Assessment_Pack.pdf
+│   └── Vendor_Risk_Assessment_Workbook.xlsx
+│
+├── Assessment-Notes/
+│   ├── 01-Vendor-Profile.md
+│   ├── 02-Tiering.md
+│   ├── 03-Questionnaire.md
+│   ├── 04-Findings.md
+│   ├── 05-Risk-Analysis.md
+│   └── 06-Decision.md
 │
 ├── Completed-Assessment/
-│   ├── Completed_Vendor_Risk_Assessment.xlsx
-│   └── TPRM_Assessment_Report.pdf
+│   └── Completed_Vendor_Risk_Assessment.xlsx
 │
 ├── Evidence/
 │   ├── SOC2/
